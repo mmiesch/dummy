@@ -1,0 +1,3 @@
+[submodule "CIMP"]
+	path = CIMP
+	url = https://github.com/mmiesch/CIMP.git
